@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0,TRT 1 HD
-http://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT 1 FHD
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:0,TRT 1 HD YEDEK
@@ -24,7 +24,7 @@ https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
 #EXTINF:0,KANAL 7 FHD
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:0,KANAL 7 FHD YÜKSEK KALhttp://149.13.0.66:4003/kanal7
-#EXTINF:0,NOW TV 
+#EXTINF:-1,NOW TV 
 https://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:0,FOX TV FHD
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
