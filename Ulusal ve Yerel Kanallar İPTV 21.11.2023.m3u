@@ -3,8 +3,6 @@
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6y28cu4rf7qw&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:0,TRT 1 FHD
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6y28cu4rf7qw&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:0,TRT 1 HD YEDEK
-http://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
 #EXTINF:0,Cine1 SERHAT
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:0,KANAL D HD
@@ -15,8 +13,6 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:0,ATV FHD
 https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1732787793&st=Pe782JNjV_Yh15lZ5hU4GQ&sid=6y27xwh6vceo&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
-#EXTINF:0,SHOW TV HD
-https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
 #EXTINF:0,SHOW TV FHD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:0,KANAL 7 HD
@@ -25,7 +21,7 @@ https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:0,KANAL 7 FHD YÜKSEK KALhttp://149.13.0.66:4003/kanal7
 #EXTINF:0,NOW TV 
-https://www.nowtv.com.tr/canli-yayin#https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=iddMWFBpsbx5xO0llMZg8Q&e=1732757015
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1732800818&st=ORY5-xorL1RVeYcxHugEjA
 #EXTINF:0,FOX TV FHD
 https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1732800818&st=ORY5-xorL1RVeYcxHugEjA
 #EXTINF:0,360 TV HD
@@ -38,8 +34,6 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 https://tv4.blutv.com/blutv_tv4/live.m3u8
 #EXTINF:0,TEVE 2 FHD
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:0,TEVE 2 FHD YEDEK
-https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/34/index.m3u8
 #EXTINF:0,BEYAZ TV HD
 https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
 #EXTINF:0,BEYAZ TV FHD
