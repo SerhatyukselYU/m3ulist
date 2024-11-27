@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,TRT 1 HD
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+http://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT 1 FHD
 https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:0,TRT 1 HD YEDEK
@@ -14,7 +14,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:0,STAR TV HD
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:0,ATV FHD
-https://stream.tvcdn.net/ulusal/atv.m3u8
+http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:0,SHOW TV HD
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
 #EXTINF:0,SHOW TV FHD
