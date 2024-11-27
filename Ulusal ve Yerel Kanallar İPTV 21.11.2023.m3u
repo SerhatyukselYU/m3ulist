@@ -24,10 +24,10 @@ https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
 #EXTINF:0,KANAL 7 FHD
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:0,KANAL 7 FHD YÜKSEK KALhttp://149.13.0.66:4003/kanal7
-#EXTINF:0,FOX TV HD
+#EXTINF:0,NOW TV 
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:0,FOX TV FHD
-https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8
+http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:0,360 TV HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0,360 TV HD YEDEK
