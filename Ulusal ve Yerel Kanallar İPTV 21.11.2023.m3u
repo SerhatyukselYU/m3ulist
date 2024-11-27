@@ -14,7 +14,7 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:0,STAR TV HD
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:0,ATV FHD
-http://stream.tvcdn.net/ulusal/atv.m3u8
+https://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:0,SHOW TV HD
 https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
 #EXTINF:0,SHOW TV FHD
@@ -25,7 +25,7 @@ https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:0,KANAL 7 FHD YÜKSEK KALhttp://149.13.0.66:4003/kanal7
 #EXTINF:0,NOW TV 
-http://stream.tvcdn.net/ulusal/now-tv.m3u8
+https://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:0,FOX TV FHD
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:0,360 TV HD
