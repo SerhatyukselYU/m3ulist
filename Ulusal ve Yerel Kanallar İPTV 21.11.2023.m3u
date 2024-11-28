@@ -1,123 +1,124 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1-SY
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6y28cu4rf7qw&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:0,TRT 1 FHD
+#EXTINF:0,TRT 1 YEDEK-SY
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6y28cu4rf7qw&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:0,Cine1 SERHAT
+#EXTINF:0,Cine1-SY
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:0,KANAL D HD
+#EXTINF:0,KANAL D HD-SY
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-#EXTINF:0,KANAL D FHD
+#EXTINF:0,KANAL D FHD-SY
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
-#EXTINF:0,STAR TV HD
+#EXTINF:0,STAR TV HD-SY
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
-#EXTINF:0, ATV HD
+#EXTINF:0, ATV HD-SY
 https://trkvz.daioncdn.net/atv/atv_720p.m3u8?e=1732787793&st=Pe782JNjV_Yh15lZ5hU4GQ&sid=6y27xwh6vceo&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
-#EXTINF:0,SHOW TV FHD
+#EXTINF:0,SHOW TV FHD-SY
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:0,KANAL 7 HD
+#EXTINF:0,KANAL 7 HD-SY
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
-#EXTINF:0,KANAL 7 FHD
+#EXTINF:0,KANAL 7 FHD-SY
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:0,KANAL 7 FHD YÜKSEK KALhttp://149.13.0.66:4003/kanal7
-#EXTINF:0,NOW TV 
+#EXTINF:0,KANAL 7 FHD-SY 
+http://149.13.0.66:4003/kanal7
+#EXTINF:0,NOW TV-SY
 https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1732800818&st=ORY5-xorL1RVeYcxHugEjA
-#EXTINF:0,FOX TV FHD
+#EXTINF:0,FOX TV FHD-SY
 https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1732800818&st=ORY5-xorL1RVeYcxHugEjA
-#EXTINF:0,360 TV HD
+#EXTINF:0,360 TV HD-SY
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:0,360 TV HD YEDEK
+#EXTINF:0,360 TV HD YEDEK-SY
 https://360tvdvr.blutv.com/blutv_360tv_dvr/live.m3u8
-#EXTINF:0,TV4 HD
+#EXTINF:0,TV4 HD-SY
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:0,TV4 HD YEDEK
+#EXTINF:0,TV4 HD YEDEK-SY
 https://tv4.blutv.com/blutv_tv4/live.m3u8
-#EXTINF:0,TEVE 2 FHD
+#EXTINF:0,TEVE 2 FHD-SY
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:0,BEYAZ TV HD
+#EXTINF:0,BEYAZ TV HD-SY
 https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
-#EXTINF:0,BEYAZ TV FHD
+#EXTINF:0,BEYAZ TV FHD-SY
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:0,TV 8 FHD
+#EXTINF:0,TV 8 FHD-SY
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:0,TV 8.5 FHD
+#EXTINF:0,TV 8.5 FHD-SY
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
-#EXTINF:0,TRT BELGESEL HD
+#EXTINF:0,TRT BELGESEL HD-SY
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
-#EXTINF:0,TRT BELGESEL HD YEDEK
+#EXTINF:0,TRT BELGESEL HD YEDEK-SY
 https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8
-#EXTINF:0,TLC HD
+#EXTINF:0,TLC HD-SY
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:0,TLC HD YEDEK
+#EXTINF:0,TLC HD YEDEK-SY
 https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
-#EXTINF:0,DMAX TV HD
+#EXTINF:0,DMAX TV HD-SY
 https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
 #EXTINF:0,Dhttps://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
-#EXTINF:0,DOCUMAX BELGESEL
+#EXTINF:0,DOCUMAX BELGESEL-SY
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1278/index.m3u8
-#EXTINF:0,CNN TURK HD
+#EXTINF:0,CNN TURK HD-SY
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-#EXTINF:0,NTV HD
+#EXTINF:0,NTV HD-SY
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8
-#EXTINF:0,HABER GLOBAL HD
+#EXTINF:0,HABER GLOBAL HD-SY
 https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
-#EXTINF:0,HABER GLOBAL FHD
+#EXTINF:0,HABER GLOBAL FHD-SY
 https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/72/index.m3u8
-#EXTINF:0,HABER TURK HD
+#EXTINF:0,HABER TURK HD-SY
 https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
-#EXTINF:0,HABERTÜRK FHD
+#EXTINF:0,HABERTÜRK FHD-SY
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/54/index.m3u8
-#EXTINF:0,TGRT HABER FHD
+#EXTINF:0,TGRT HABER FHD-SY
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
-#EXTINF:0,TRT HABER HD
+#EXTINF:0,TRT HABER HD-SY
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:0,A HABER
+#EXTINF:0,A HABER-SY
 http://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8
-#EXTINF:0,24 TV HD
+#EXTINF:0,24 TV HD-SY
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:0,24 TV FHD
+#EXTINF:0,24 TV FHD-SY
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
-#EXTINF:0,A HABER
+#EXTINF:0,A HABER-SY
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8
-#EXTINF:0,AKiT TV HD
+#EXTINF:0,AKiT TV HD-SY
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
-#EXTINF:0,ULKE TV HD
+#EXTINF:0,ULKE TV HD-SY
 https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
-#EXTINF:0,HALK TV
+#EXTINF:0,HALK TV-SY
 https://halktvdvr.blutv.com/blutv_halktv2_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:0,SÖZCÜ TV
+#EXTINF:0,SÖZCÜ TV-SY
 https://szctv.blutv.com/blutv_szctv/live_720p2000000kbps/index.m3u8
-#EXTINF:0,TELE 1
+#EXTINF:0,TELE 1-SY
 https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8
-#EXTINF:0,KRT TV
+#EXTINF:0,KRT TV-SY
 http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8
-#EXTINF:0,BENGU TURK
+#EXTINF:0,BENGU TURK-SY
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
-#EXTINF:0,FLASH HABER HD
+#EXTINF:0,FLASH HABER HD-SY
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-#EXTINF:0,TURK HABER TV HD
+#EXTINF:0,TURK HABER TV HD-SY
 https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8
-#EXTINF:0,HABER 61 HD
+#EXTINF:0,HABER 61 HD-SY
 http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
-#EXTINF:0,KANAL 7 AVRUPA FHD
+#EXTINF:0,KANAL 7 AVRUPA FHD-SY
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
-#EXTINF:0,SHOW TÜRK
+#EXTINF:0,SHOW TÜRK-SY
 https://showturk.blutv.com/blutv_showturk2/live.m3u8
-#EXTINF:0,EURO D
+#EXTINF:0,EURO D-SY
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:0,A2 TV
+#EXTINF:0,A2 TV-SY
 http://221.120.145.12:8000/play/a08g/index.m3u8
-#EXTINF:0,TGRT EU
+#EXTINF:0,TGRT EU-SY
 https://tv.ensonhaber.com/tgrteu/tgrteu.m3u8
-#EXTINF:0,TGRT BELGESEL
+#EXTINF:0,TGRT BELGESEL-SY
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?md5=yJ4adbAK5bE0F93vqFevgw&expires=1687122603
-#EXTINF:0,TRT TURK HD
+#EXTINF:0,TRT TURK HD-SY
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TRT 2 HD
+#EXTINF:0,TRT 2 HD-SY
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TRT AVAZ
+#EXTINF:0,TRT AVAZ-SY
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0,TiVi 6 HD
+#EXTINF:0,TiVi 6 HD-SY
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:0,Fhttps://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1277/index.m3u8
 #EXTINF:0,Fhttps://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1279/index.m3u8
@@ -126,7 +127,7 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 #EXTINF:0,Fhttps://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1283/index.m3u8
 #EXTINF:0,Fhttps://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1282/index.m3u8
 #EXTINF:0,DOhttps://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1286/index.m3u8
-#EXTINF:0,TELEON TV
+#EXTINF:0,TELEON TV-SY
 https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8
 #EXTINF:0,TiViTURK HD
 https://stream.tiviturk.de/live/tiviturk.m3u8
