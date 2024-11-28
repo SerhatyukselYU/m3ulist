@@ -197,9 +197,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409f
 #EXTINF:0,VAV TV
 http://new.cache-stream.workers.dev/stream/UCmMPdW0rtbEI_XyIsMlMnqg/live.m3u8
 #EXTINF:0,TRT SPOR HD
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TRT SPOR YEDEK
-https://trtspordvr.blutv.com/blutv_trtspor_dvr/live.m3u8
+https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=6y3xmdcrz41o&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
 #EXTINF:0,TRT SPOR YILDIZ HD
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:0,TRT SPOR YILDIZ FHD
