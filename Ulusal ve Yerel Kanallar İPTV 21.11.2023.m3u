@@ -503,3 +503,5 @@ https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,SUNNAH TV - MEDhttps://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
 #EXTINF:0,Al Quran Al Kareem - MEKKE CANLI
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 group-title="Kategoriler",Ulusal Kanallar
+https://raw.githubusercontent.com/SerhatyukselYU/m3ulist/refs/heads/main/Ulusal%20ve%20Yerel%20Kanallar%20%C4%B0PTV%2021.11.2023.m3u
