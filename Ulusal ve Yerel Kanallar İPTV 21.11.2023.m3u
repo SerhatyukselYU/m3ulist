@@ -11,7 +11,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:0,STAR TV HD
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
-#EXTINF:0,ATV FHD tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png"
+#EXTINF:0 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
 https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1732787793&st=Pe782JNjV_Yh15lZ5hU4GQ&sid=6y27xwh6vceo&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 #EXTINF:0,SHOW TV FHD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
