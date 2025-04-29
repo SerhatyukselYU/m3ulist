@@ -31,8 +31,6 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:0,TEVE 2 FHD-SY
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:0,BEYAZ TV HD-SY
-https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
 #EXTINF:0,BEYAZ TV FHD-SY
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:0,TV 8 FHD-SY
@@ -41,23 +39,13 @@ https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3
 #EXTINF:0,TRT BELGESEL HD-SY
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
-#EXTINF:0,TRT BELGESEL HD YEDEK-SY
-https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8
 #EXTINF:0,TLC HD-SY
 https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-#EXTINF:0,TLC HD YEDEK-SY
-https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
-#EXTINF:0,DMAX TV HD-SY
-https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8
 #EXTINF:0,Dhttps://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
 #EXTINF:0,DOCUMAX BELGESEL-SY
 https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1278/index.m3u8
-#EXTINF:0,CNN TURK HD-SY
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:0,NTV HD-SY
 https://dogus-live.daioncdn.net/ntv/playlist.m3u8
-#EXTINF:0,HABER GLOBAL HD-SY
-https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
 #EXTINF:0,HABER GLOBAL FHD-SY
 https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/72/index.m3u8
 #EXTINF:0,HABER TURK HD-SY
