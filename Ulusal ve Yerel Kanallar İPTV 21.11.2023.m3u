@@ -5,9 +5,9 @@ https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6y28cu4rf7qw&app=ed3904e8-
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6y28cu4rf7qw&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:0 tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_157.png?v=5",Cine1-SY
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/7/2/kanal-d-logo-png_seeklogo-77086.png",KANAL D HD-SY
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/4/4e/20240406161353%21Kanal_D.png",KANAL D HD-SY
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
-#EXTINF:0 tvg-logo="https://images.seeklogo.com/logo-png/7/2/kanal-d-logo-png_seeklogo-77086.png",KANAL D FHD-SY
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/4/4e/20240406161353%21Kanal_D.png",KANAL D FHD-SY
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png",STAR TV HD-SY
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
