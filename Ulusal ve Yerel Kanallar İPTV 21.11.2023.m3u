@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/04/19/30/08/360_F_419300894_qyRMfQMFFVDZEftBLHAb4RW2lpYDIWKy.jpg", Serhat Yüksel
-https://raw.githubusercontent.com/SerhatyukselYU/video/4854c148660f5fef00257c09f2beeb182807f9b2/dh5yok_1.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png", TRT 1-SY
 https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=6y28cu4rf7qw&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png",TRT 1 YEDEK-SY
